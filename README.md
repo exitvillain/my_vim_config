@@ -1,7 +1,6 @@
 # my_vim_config
 this is actually my neo vim config! Written purely in Lua. A High-Performance, Modular Neovim Configuration Engineered for Peak Developer Efficiency.
-Why Neo Vim instead of vim? Because you can write all of your config files using Lua , a super simple and lightweight language that you can learn quickly. Better than
-vimscript.
+Why Neo Vim instead of vim? Because you can write all of your config files using Lua , a super simple and lightweight language that you can learn quickly. 
 
 Welcome to my pure Lua Neovim configuration. Custom-designed for modern development workflows, this configuration integrates a Language Server Protocol (LSP) that supports JavaScript, Python, HTML, and CSS, creating a smooth coding experience across multiple languages.
 
