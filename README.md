@@ -1,10 +1,10 @@
-# my_vim_config
+# my_neovim_config
 this is actually my neo vim config! Written purely in Lua. A High-Performance, Modular Neovim Configuration Engineered for Peak Developer Efficiency.
 Why Neo Vim instead of vim? Because you can write all of your config files using Lua , a super simple and lightweight language that you can learn quickly. 
 
-Welcome to my pure Lua Neovim configuration. Custom-designed for modern development workflows, this configuration integrates a Language Server Protocol (LSP) that supports JavaScript, Python, HTML, and CSS, creating a smooth coding experience across multiple languages.
+Welcome to my pure Lua Neovim configuration. Custom-designed for modern development workflows, this configuration integrates a Language Server Protocol (LSP) that supports JavaScript, Python, HTML, and CSS, creating a smooth coding experience across multiple languages. Please don't use this. This is me just getting familiar with NeoVim and trying to get my participation up on Github. 
 
-I've implemented numerous unique remaps and integrated various other plugins, all configured for optimal usability. Each part of this configuration contributes to a more efficient and enjoyable coding experience, making development faster, easier, and more powerful." The most useful I think are relative line numbers for jumping around like a wizzard, an awesome color scheme, allowing jj to take be from insert mode to normal mode instead of esc. And showing the file tabs on the top was a big help for me.  Get used to loading in your own plugins! It is fun! 
+I've implemented numerous unique remaps and integrated various other plugins, all configured for optimal usability. Each part of this configuration contributes to a more efficient and enjoyable coding experience, making development faster, easier, and more powerful. The most useful I think are relative line numbers for jumping around like a wizzard, an awesome color scheme, allowing jj to take be from insert mode to normal mode instead of esc. And showing the file tabs on the top was a big help for me.  Get used to loading in your own plugins! It is fun! 
 
 Check out the awesome look:
 ![Neovim Setup](./neo_vim_snap.png)
